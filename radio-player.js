@@ -2,7 +2,7 @@ playing = 0;
 // custom audio player settings:
 
 // variables:
-var radioURL = 'http://wdcr.dartmouth.edu:8000/;';
+var radioURL = 'https://wdcr.dartmouth.edu:8000/;';
 var playImage = 'https://webdcr.com/wp-content/uploads/icons-09.png';
 var pauseImage = 'https://webdcr.com/wp-content/uploads/icons-16.png';
 var loadingImage = 'https://webdcr.com/wp-content/uploads/icons-11.png';
