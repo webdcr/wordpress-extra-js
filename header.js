@@ -1,6 +1,6 @@
 // start AJAX functions below: 
 var radioChecked = false;
-SHORT_CODE_LINK = "https://webdcr.com/wp-admin/admin-ajax.php?action=radio_station_current_show&instance=1&timestamp=1642352758&title=&display_hosts=0&show_avatar=1&show_title=1&show_link=1&default_name=WebDCR%20Automation%20Now%20Playing.&time=12&show_sched=1&show_playlist=0&show_all_sched=1&show_desc=0&avatar_width=&avatar_size=thumbnail&title_position=center&link_hosts=0&show_encore=1&countdown=0&ajax=on&dynamic=0&widget=0&id=&for_time=0
+SHORT_CODE_LINK = "https://webdcr.com/wp-admin/admin-ajax.php?action=radio_station_current_show&instance=1&timestamp=1642352758&title=&display_hosts=0&show_avatar=1&show_title=1&show_link=1&default_name=WebDCR%20Automation%20Now%20Playing.&time=12&show_sched=1&show_playlist=0&show_all_sched=1&show_desc=0&avatar_width=&avatar_size=thumbnail&title_position=center&link_hosts=0&show_encore=1&countdown=0&ajax=on&dynamic=0&widget=0&id=&for_time=0";
 
 
 function modifyJOAN() {
