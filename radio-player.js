@@ -2,7 +2,7 @@ playing = 0;
 // custom audio player settings:
 
 // variables:
-var radioURL = 'https://playerservices.streamtheworld.com/api/livestream-redirect/"&[1]Data!F4&".mp3';
+var radioURL = 'https://playerservices.streamtheworld.com/api/livestream-redirect/DC_RADIO.mp3';
 var playImage = 'https://webdcr.com/wp-content/uploads/icons-09.png';
 var pauseImage = 'https://webdcr.com/wp-content/uploads/icons-16.png';
 var loadingImage = 'https://webdcr.com/wp-content/uploads/icons-11.png';
