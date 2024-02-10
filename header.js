@@ -32,7 +32,7 @@ function addSameSiteLinkClickEvent() {
 		var path = this.pathname;
   
 		if (this.hostname == window.location.hostname && !path.includes("wp-admin")) {
-			clickEvent.preventDefault(); // don't do what normally happens when link gets clicked
+			// clickEvent.preventDefault(); // don't do what normally happens when link gets clicked
 			
 			newEntryContent = path + " .site-content";
 			ran = false;
