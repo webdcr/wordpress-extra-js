@@ -2,7 +2,7 @@ playing = 0;
 // custom audio player settings:
 
 // variables:
-var radioURL = 'https://19293.live.streamtheworld.com/DC_RADIO.mp3';
+var radioURL = 'https://18093.live.streamtheworld.com/DC_RADIOAAC.aac?pname=StandardPlayerV4&pversion=4.19.2-044&dist=triton-web&tdsdk=js-2.9&swm=false&banners=300x250&burst-time=15';
 var playImage = 'https://webdcr.com/wp-content/uploads/icons-09.png';
 var pauseImage = 'https://webdcr.com/wp-content/uploads/icons-16.png';
 var loadingImage = 'https://webdcr.com/wp-content/uploads/icons-11.png';
